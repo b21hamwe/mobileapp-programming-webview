@@ -2,5 +2,4 @@
     <string name="app_name">BosseAppen</string>
     <string name="action_external_web">External Web Page</string>
     <string name="action_internal_web">Internal Web Page</string>
-    <string name="Hello_msg">Hello from the other side</string>
 </resources>
